@@ -2,7 +2,7 @@
 COVID19 data analytics dashboard
 About: March 26, 2020
 
-This endeavour is to create a freely available android app data analytics dashboard for users to track the data, analyze outcomes (cause and effect), and modify behaviour to 'flatten the curve' of the spread of the COVID19 pandemic virus.
+This endeavour is to create a freely available android app data analytics dashboard, coded in Kotlin, for users to track the data, analyze outcomes (cause and effect), and modify behaviour to 'flatten the curve' of the spread of the COVID19 pandemic virus.
 Development is hoped to be completed in a quick time frame so that more people can download the app and use it as a single point of reference (SPR) of data, information and actions taken (descriptive, predictive, and prescriptive) to help combat the COVID19 pandemic.
 Goals:
 1. Not to have overwhelmed hospita ICUs
